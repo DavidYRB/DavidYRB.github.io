@@ -5,7 +5,7 @@
     <link>https://DavidYRB.github.io/research_projects/</link>
       <atom:link href="https://DavidYRB.github.io/research_projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Project</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 by Ruibo Yan</copyright><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DavidYRB.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Project</title>
@@ -13,21 +13,20 @@
     </image>
     
     <item>
-      <title>Modular Soft Manipulator</title>
-      <link>https://DavidYRB.github.io/research_projects/origamimodule/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://DavidYRB.github.io/research_projects/origamimodule/</guid>
-      <description>&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+      <title>Origami Soft Snake</title>
+      <link>https://DavidYRB.github.io/research_projects/origamisnake/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://DavidYRB.github.io/research_projects/origamisnake/</guid>
+      <description>&lt;p&gt;Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Origami Soft Snake</title>
-      <link>https://DavidYRB.github.io/research_projects/origamisnake/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://DavidYRB.github.io/research_projects/origamisnake/</guid>
-      <description>&lt;p&gt;Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://DavidYRB.github.io/publication_pages/origamisnake/&#34;&gt;A publication&lt;/a&gt;&lt;/p&gt;
+      <title>Modular Soft Manipulator</title>
+      <link>https://DavidYRB.github.io/research_projects/origamimodule/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://DavidYRB.github.io/research_projects/origamimodule/</guid>
+      <description>&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manipulation | Ruibo Yan</title>
+    <link>https://DavidYRB.github.io/tag/manipulation/</link>
+      <atom:link href="https://DavidYRB.github.io/tag/manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>manipulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 by Ruibo Yan</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DavidYRB.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>manipulation</title>
+      <link>https://DavidYRB.github.io/tag/manipulation/</link>
+    </image>
+    
+    <item>
+      <title>Manipulation Hardware</title>
+      <link>https://DavidYRB.github.io/robotic_projects/ar/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://DavidYRB.github.io/robotic_projects/ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Soft Manipulator</title>
+      <link>https://DavidYRB.github.io/robotic_projects/origamimodule/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://DavidYRB.github.io/robotic_projects/origamimodule/</guid>
+      <description>&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
