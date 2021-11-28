@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>manipulation | Ruibo Yan</title>
+    <title>Manipulation | Ruibo Yan</title>
     <link>https://DavidYRB.github.io/tag/manipulation/</link>
       <atom:link href="https://DavidYRB.github.io/tag/manipulation/index.xml" rel="self" type="application/rss+xml" />
-    <description>manipulation</description>
+    <description>Manipulation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 by Ruibo Yan</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DavidYRB.github.io/media/icon_hu0e21efafdcd6577cacaebca3a6409662_13407_512x512_fill_lanczos_center_3.png</url>
-      <title>manipulation</title>
+      <title>Manipulation</title>
       <link>https://DavidYRB.github.io/tag/manipulation/</link>
     </image>
     
@@ -17,7 +17,15 @@
       <link>https://DavidYRB.github.io/robotic_projects/ar/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/ar/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Due to the Non-Disclosure Agreement signed with Amazon Robotics, pictures for reference only. The detailed information will not be included here.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The major project I worked on was related to end-effectors. I created a ROS Python package to control newly-designed end-effectors to perform picking behavior.&lt;/p&gt;
+&lt;p&gt;Afterwards, I set up the hardware of a 2 robot arm test station from installing station frames, configuring network hub connections, to  calibrating camera sensors. To reflect the station in ROS, I created an entire set of URDF files so the station can be accurately described and displayed in Rviz.&lt;/p&gt;
+&lt;p&gt;I later expanded the ROS stack used internally to facilitate the test process of end-effectors. By creating a package that enables people to select picking points with desired angle and position in the pot through a real time 3D image on the screen, with just a click, the system will drive to the selected location and pick the object.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +33,19 @@
       <link>https://DavidYRB.github.io/robotic_projects/origamimodule/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/origamimodule/</guid>
-      <description>&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+&lt;h3 id=&#34;main-contribution&#34;&gt;Main Contribution&lt;/h3&gt;
+&lt;p&gt;In summary, the contribution of this work is the development and analysis of a new approach to continuum
+manipulation that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses an origami-inspired mechanism as its body, allowing for significant extension/contraction and bending
+motions;&lt;/li&gt;
+&lt;li&gt;Has a high torsional strength, allowing it to resist
+undesired twisting deformations in 3-D space;&lt;/li&gt;
+&lt;li&gt;Is composed of self-contained modules, whereby the
+addition of modules requires minimal design changes.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

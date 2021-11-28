@@ -5,7 +5,7 @@
     <link>https://DavidYRB.github.io/tag/soft/</link>
       <atom:link href="https://DavidYRB.github.io/tag/soft/index.xml" rel="self" type="application/rss+xml" />
     <description>soft</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 by Ruibo Yan</copyright><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 by Ruibo Yan</copyright><lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DavidYRB.github.io/media/icon_hu0e21efafdcd6577cacaebca3a6409662_13407_512x512_fill_lanczos_center_3.png</url>
       <title>soft</title>
@@ -13,20 +13,23 @@
     </image>
     
     <item>
-      <title>Origami Soft Snake</title>
-      <link>https://DavidYRB.github.io/robotic_projects/origamisnake/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://DavidYRB.github.io/robotic_projects/origamisnake/</guid>
-      <description>&lt;p&gt;Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Modular Soft Manipulator</title>
       <link>https://DavidYRB.github.io/robotic_projects/origamimodule/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/origamimodule/</guid>
-      <description>&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+&lt;h3 id=&#34;main-contribution&#34;&gt;Main Contribution&lt;/h3&gt;
+&lt;p&gt;In summary, the contribution of this work is the development and analysis of a new approach to continuum
+manipulation that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses an origami-inspired mechanism as its body, allowing for significant extension/contraction and bending
+motions;&lt;/li&gt;
+&lt;li&gt;Has a high torsional strength, allowing it to resist
+undesired twisting deformations in 3-D space;&lt;/li&gt;
+&lt;li&gt;Is composed of self-contained modules, whereby the
+addition of modules requires minimal design changes.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

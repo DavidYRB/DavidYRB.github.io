@@ -114,7 +114,12 @@
       <link>https://DavidYRB.github.io/other_projects/bigdata/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/other_projects/bigdata/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -315,7 +320,16 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/robotic_projects/origamisnake/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/origamisnake/</guid>
-      <description>&lt;p&gt;Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.&lt;/p&gt;
+&lt;h3 id=&#34;main-contribution&#34;&gt;Main Contribution&lt;/h3&gt;
+&lt;p&gt;The contribution of this work mainly related to the WPI OriSnake including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating a Origami Snake robot that is capable of both lateral undulation and side-winding.&lt;/li&gt;
+&lt;li&gt;Analyzing the behavior of the OriSnake under different
+locomotion parameters and search for optimal set of parameters
+for maximum linear speed for both locomotion gaits.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -324,7 +338,15 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/robotic_projects/ar/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/ar/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Due to the Non-Disclosure Agreement signed with Amazon Robotics, pictures for reference only. The detailed information will not be included here.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The major project I worked on was related to end-effectors. I created a ROS Python package to control newly-designed end-effectors to perform picking behavior.&lt;/p&gt;
+&lt;p&gt;Afterwards, I set up the hardware of a 2 robot arm test station from installing station frames, configuring network hub connections, to  calibrating camera sensors. To reflect the station in ROS, I created an entire set of URDF files so the station can be accurately described and displayed in Rviz.&lt;/p&gt;
+&lt;p&gt;I later expanded the ROS stack used internally to facilitate the test process of end-effectors. By creating a package that enables people to select picking points with desired angle and position in the pot through a real time 3D image on the screen, with just a click, the system will drive to the selected location and pick the object.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -332,7 +354,16 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/research_projects/origamisnake/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/research_projects/origamisnake/</guid>
-      <description>&lt;p&gt;Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Snake robots offer a useful and unique mobility platform for search-and-rescue applications. However, existing prototypes made of rigid links and joints are hampered by a lack of flexibility that limits their utility in highly cluttered, maze-like environments, and their heavy weight limits their energy-efficiency and performance in three-dimensional (3-D) tasks. As an application based on the research of origami modular manipulator, we created an OriSnake to perform two types (undulation and sidewinding) locomotion that are common seen from real snakes. The OriSnake is assembled by four cylindrical, origami continuum modules driven by internal cables and electric motors, as well as a local feedback control system on each module. Thus, we can distribute actuation, sensing, and control for highly scalable soft robotic continuum origami systems.&lt;/p&gt;
+&lt;h3 id=&#34;main-contribution&#34;&gt;Main Contribution&lt;/h3&gt;
+&lt;p&gt;The contribution of this work mainly related to the WPI OriSnake including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating a Origami Snake robot that is capable of both lateral undulation and side-winding.&lt;/li&gt;
+&lt;li&gt;Analyzing the behavior of the OriSnake under different
+locomotion parameters and search for optimal set of parameters
+for maximum linear speed for both locomotion gaits.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -341,7 +372,40 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/robotic_projects/origamimodule/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/origamimodule/</guid>
-      <description>&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+&lt;h3 id=&#34;main-contribution&#34;&gt;Main Contribution&lt;/h3&gt;
+&lt;p&gt;In summary, the contribution of this work is the development and analysis of a new approach to continuum
+manipulation that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses an origami-inspired mechanism as its body, allowing for significant extension/contraction and bending
+motions;&lt;/li&gt;
+&lt;li&gt;Has a high torsional strength, allowing it to resist
+undesired twisting deformations in 3-D space;&lt;/li&gt;
+&lt;li&gt;Is composed of self-contained modules, whereby the
+addition of modules requires minimal design changes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modular Soft Manipulator</title>
+      <link>https://DavidYRB.github.io/research_projects/origamimodule/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://DavidYRB.github.io/research_projects/origamimodule/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+&lt;h3 id=&#34;main-contribution&#34;&gt;Main Contribution&lt;/h3&gt;
+&lt;p&gt;In summary, the contribution of this work is the development and analysis of a new approach to continuum
+manipulation that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses an origami-inspired mechanism as its body, allowing for significant extension/contraction and bending
+motions;&lt;/li&gt;
+&lt;li&gt;Has a high torsional strength, allowing it to resist
+undesired twisting deformations in 3-D space;&lt;/li&gt;
+&lt;li&gt;Is composed of self-contained modules, whereby the
+addition of modules requires minimal design changes.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -369,15 +433,11 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/robotic_projects/self_driving/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/self_driving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modular Soft Manipulator</title>
-      <link>https://DavidYRB.github.io/research_projects/origamimodule/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://DavidYRB.github.io/research_projects/origamimodule/</guid>
-      <description>&lt;p&gt;Continuum manipulators, robot limbs inspired by trunks, snakes, and tentacles, represent a promising field in robotic manipulation research. They are well known for their compliance, as they can conform to the shape of objects they interact with. Furthermore, they also benefit from dexterity and reduced weight compared to traditional rigid manipulators. This research aims to create and evaluate an origami-inspired cable driven continuum manipulator module that offers low-cost, low volume deployment, light weight, and inherently safe human interaction and collaboration.&lt;/p&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -386,7 +446,12 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/robotic_projects/staples/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/staples/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -394,7 +459,12 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/robotic_projects/staples_smartcart/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/staples_smartcart/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -402,7 +472,12 @@ $$&lt;/p&gt;
       <link>https://DavidYRB.github.io/other_projects/c&#43;&#43;/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/other_projects/c&#43;&#43;/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
