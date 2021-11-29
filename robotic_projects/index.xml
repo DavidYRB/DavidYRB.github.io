@@ -35,13 +35,8 @@ for maximum linear speed for both locomotion gaits.&lt;/li&gt;
       <link>https://DavidYRB.github.io/robotic_projects/ar/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/ar/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Due to the Non-Disclosure Agreement signed with Amazon Robotics, pictures for reference only. The detailed information will not be included here.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;The major project I worked on was related to end-effectors. I created a ROS Python package to control newly-designed end-effectors to perform picking behavior.&lt;/p&gt;
-&lt;p&gt;Afterwards, I set up the hardware of a 2 robot arm test station from installing station frames, configuring network hub connections, to  calibrating camera sensors. To reflect the station in ROS, I created an entire set of URDF files so the station can be accurately described and displayed in Rviz.&lt;/p&gt;
+      <description>&lt;p&gt;As a co-op, I worked on projects related to end-effectors which will be used to solve the picking problems. I created a ROS Python package to control newly-designed end-effectors to perform picking behavior.&lt;/p&gt;
+&lt;p&gt;Afterwards, I set up a two-roboarm test station from installing station frames, configuring network hub connections, to  calibrating camera sensors. To display the station in ROS, I created an entire set of URDF files so the station can be accurately described and displayed in Rviz.&lt;/p&gt;
 &lt;p&gt;I later expanded the ROS stack used internally to facilitate the test process of end-effectors. By creating a package that enables people to select picking points with desired angle and position in the pot through a real time 3D image on the screen, with just a click, the system will drive to the selected location and pick the object.&lt;/p&gt;
 </description>
     </item>
@@ -72,11 +67,15 @@ addition of modules requires minimal design changes.&lt;/li&gt;
       <link>https://DavidYRB.github.io/robotic_projects/self_driving/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/self_driving/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;Developed a PID controller and a MPC controller  to drive a vehicle in a simulator track (Control)&lt;/li&gt;
+&lt;li&gt;Programmed a particle filter to localize a vehicle with sensor information with RSME less than 0.4 (Localization)&lt;/li&gt;
+&lt;li&gt;Created an Extended Kalman Filter fusing Radar and Lidar data to estimate pedestrian’s position with RSME less than 0.1 (Sensor Fusion)&lt;/li&gt;
+&lt;li&gt;Generated a dataset of vehicles (featuring by spatial binning color, color histogram, and histogram of gradient (HOG)) and used LinearSVC to train a car classifier acquired 98.3% accuracy (Machine Learning)&lt;/li&gt;
+&lt;li&gt;Detected lane lines and marked driving area with polynomial-fit boundary in video with sobel threshold and color threshold binary images from each frame (Computer Vision)&lt;/li&gt;
+&lt;li&gt;Trained a traffic sign classifier (LeNet) with preprocessed 43-class (50,000+ images) on AWS with validation accuracy with 94.3% and test accuracy 94% (Deep Learning)&lt;/li&gt;
+&lt;li&gt;Controlled a vehicle to drive within a track by a model (LeNet) which is trained with collected dataset of human drive (Deep Learning)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -85,11 +84,7 @@ addition of modules requires minimal design changes.&lt;/li&gt;
       <link>https://DavidYRB.github.io/robotic_projects/staples/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/staples/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <description>&lt;p&gt;The project was aiming to build a warehouse robotics stack for Staples&#39; fulfillment center. As a main participant, I built a 10m * 5m test environment with precisely allocated QR codes. By consuming the image, IR, encoder data from the prototype robot, I created a path planning algorithm and a controller that enables the warehouse robot to move from any start point to end point stably while carring a 500lb pod.&lt;/p&gt;
 </description>
     </item>
     
@@ -98,11 +93,7 @@ addition of modules requires minimal design changes.&lt;/li&gt;
       <link>https://DavidYRB.github.io/robotic_projects/staples_smartcart/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://DavidYRB.github.io/robotic_projects/staples_smartcart/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Due to the Non-Disclosure Agreement signed with Staples Inc., pictures for reference only. The detailed information will not be included here.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <description>&lt;p&gt;By creating a test platform with various sensors, I led a team of five built a prototype with SLAM and self-navigation functionality. It laid fundation for further development of different modes of a shopping cart in Staples&#39; stores, for example cart-follow-person mode&lt;/p&gt;
 </description>
     </item>
     
